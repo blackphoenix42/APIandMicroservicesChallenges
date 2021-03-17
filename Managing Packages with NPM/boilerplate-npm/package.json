@@ -13,7 +13,7 @@
 	"scripts": {
 		"start": "node server.js"
 	},
-	"repository": {
+	"repository": { 
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	}
